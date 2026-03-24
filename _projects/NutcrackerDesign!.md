@@ -15,7 +15,7 @@ Ma = L1*490 - L2 *65 = 0
 
 L2 = 11.3 in - the total lenght of this nut cracker.
 
-/assets/images/diagram.jpg
+ ![]({{ '/assets/images/<diagram>' | diagram.jpg }})
 
 this is a pretty simple and usable design, I maybe should have made the L1 a little longer, so that it's easier to put the nut in - but while this isn't something you can just grab with one hand and crack nuts with, for a two handed device it's perfectly comfortable to hold and use.
 
